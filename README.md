@@ -20,15 +20,10 @@ Incoming postgraduate student at **Leeds Trinity University (City Centre Campus 
 ## 🛠️ Advanced Technical Stack & Specialization
 
 * **Data Engineering & Manipulation:** Microsoft Excel (Advanced Pivot Table Aggregations, Non-Linear Logic, Dynamic Slicers).
-* **Database Querying (In Progress):** SQL Data Infrastructure (Relational logic, advanced grouping, and filtering).
-* **Business Intelligence (In Progress):** Power BI enterprise dashboard modeling and data pipeline integration.
-
----
-
-## 📬 Professional Connectivity
-
-## 📬 Professional Connectivity
+* **## 📬 Professional Connectivity
 
 * **Academic Location:** Leeds City Centre (Trevelyan House Campus), UK 
 * **GitHub Portfolio:** [://github.com](https://://github.com)
+
+
 
