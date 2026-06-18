@@ -15,8 +15,13 @@ I focus on **data structural integrity, predictive scenario modeling, and execut
 ---
 
 ## 🛠️ Tools & Stack
+## 🛠️ Tools & Stack
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **Data Engineering & Architecture:** `Microsoft Excel` 📊 *(Advanced Pivot Aggregations & Dynamic Slicers)*
+* **Database Infrastructure:** `SQL` 🗄️ *(Relational Logic, Advanced Grouping & Queries)*
+* **Enterprise Business Intelligence:** `Power BI / Tableau` 📈 *(Interactive Dashboard Visualization)*
+
+
 
 ---
 
