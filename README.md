@@ -1,10 +1,6 @@
 # 👨‍💻 Qudus Usman | Incoming MSc Data Science & AI Specialist
-
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 Incoming postgraduate student at **Leeds Trinity University (City Centre Campus - Trevelyan House)**. Focused on engineering enterprise-grade data pipelines, business intelligence infrastructure, and quantitative market trend analytics.
-
-![Excel](https://shields.io) ![SQL](https://shields.io) ![PowerBI](https://shields.io)
-
----
 
 ## 🚀 Featured Data Analytics & Intelligence Terminals
 
