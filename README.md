@@ -2,6 +2,8 @@
 
 Incoming postgraduate student at **Leeds Trinity University (City Centre Campus - Trevelyan House)**. Focused on engineering enterprise-grade data pipelines, business intelligence infrastructure, and quantitative market trend analytics.
 
+![Excel](https://shields.io) ![SQL](https://shields.io) ![PowerBI](https://shields.io)
+
 ---
 
 ## 🚀 Featured Data Analytics & Intelligence Terminals
@@ -20,10 +22,12 @@ Incoming postgraduate student at **Leeds Trinity University (City Centre Campus 
 ## 🛠️ Advanced Technical Stack & Specialization
 
 * **Data Engineering & Manipulation:** Microsoft Excel (Advanced Pivot Table Aggregations, Non-Linear Logic, Dynamic Slicers).
-* **## 📬 Professional Connectivity
+* **Database Querying (In Progress):** SQL Data Infrastructure (Relational logic, advanced grouping, and filtering).
+* **Business Intelligence (In Progress):** Power BI enterprise dashboard modeling and data pipeline integration.
+
+---
+
+## 📬 Professional Connectivity
 
 * **Academic Location:** Leeds City Centre (Trevelyan House Campus), UK 
 * **GitHub Portfolio:** [://github.com](https://://github.com)
-
-
-
